@@ -2044,12 +2044,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PathfindingGrid
   ShowGrid: 1
-  VisualisedNodeSize: 0.25
+  VisualisedNodeSize: 0.1
   UnityGrid: {fileID: 1896734841}
-  MouseIndicator: {fileID: 1967164985}
   UnwalkableMask:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
   WorldGridSize: {x: 200, y: 200}
   NodeSize: 1
 --- !u!1 &1967164985
